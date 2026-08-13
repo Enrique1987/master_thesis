@@ -64,6 +64,7 @@ La memoria desarrolla los siguientes bloques:
 
 - [Memoria en PDF](./%5BSpanish_Version_2029%5DArquitectura_Big_Data_Pipeline_y_Monitorizacion.pdf)
 - [Memoria editable en Word](./%5BSpanish_Version_2029%5DArquitectura_Big_Data_Pipeline_y_Monitorizacion.docx)
+- [Edición en inglés y formato Markdown](./thesis-en/README.md)
 
 ## Alcance
 
