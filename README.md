@@ -1,7 +1,5 @@
 # Big Data Architecture: Pipeline and Monitoring
 
-[Spanish version](./README.es.md)
-
 This master's thesis focuses on designing and building a Big Data architecture that covers the complete data lifecycle: capture, ingestion, distribution, storage, processing, monitoring, and visualization.
 
 The project is based on a use case involving financial information. The architecture gathers news and other events, distributes them through a messaging platform, stores them in distributed systems, and centralizes infrastructure logs to support operational analysis.
@@ -65,8 +63,8 @@ The thesis covers the following areas:
 ## Documents
 
 - [English Markdown edition](./thesis-en/README.md)
-- [Original thesis in Spanish (PDF)](./%5BSpanish_Version_2029%5DArquitectura_Big_Data_Pipeline_y_Monitorizacion.pdf)
-- [Original editable thesis in Spanish (Word)](./%5BSpanish_Version_2029%5DArquitectura_Big_Data_Pipeline_y_Monitorizacion.docx)
+- [Practical continuation of the project in 2026](./continuation-2026/README.md)
+- [Original thesis archive (Spanish PDF and Word files)](./archive/original-spanish-thesis/README.md)
 
 ## Scope
 
