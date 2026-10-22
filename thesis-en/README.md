@@ -4,7 +4,7 @@ English Markdown edition of Enrique Benito Casado's Master's Thesis, submitted t
 
 ![European University logo](assets/figures/source-image-001.jpg)
 
-> This edition translates and restructures the original Spanish Word document for reading on GitHub. Technical meaning, chapter order, examples, and figure numbering are preserved. Minor wording and typographical issues have been normalized for clarity. The original [Word document](../%5BSpanish_Version_2029%5DArquitectura_Big_Data_Pipeline_y_Monitorizacion.docx) and [PDF](../%5BSpanish_Version_2029%5DArquitectura_Big_Data_Pipeline_y_Monitorizacion.pdf) remain the authoritative academic submission.
+> This edition translates and restructures the original Spanish Word document for reading on GitHub. Technical meaning, chapter order, examples, and figure numbering are preserved. Minor wording and typographical issues have been normalized for clarity. The original [Word document](../archive/original-spanish-thesis/original-thesis-spanish.docx) and [PDF](../archive/original-spanish-thesis/original-thesis-spanish.pdf) remain the authoritative academic submission.
 
 ## Academic information
 
