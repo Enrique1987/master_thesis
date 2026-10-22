@@ -1270,7 +1270,7 @@ Scrapy: https://scrapy.org/
 
 MongoDB: https://www.mongodb.com/download-center/community
 
-Pymongo: https://api.mongodb.com/python/current/
+Pymongo: https://pymongo.readthedocs.io/en/stable/
 
 Apache Kafka: https://kafka.apache.org/downloads
 
